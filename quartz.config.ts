@@ -20,8 +20,8 @@ const config: QuartzConfig = {
       fontOrigin: "googleFonts",
       cdnCaching: true,
       typography: {
-        header: "Zen Maru Gothic",
-        body: "Zen Maru Gothic",
+        header: "M PLUS Rounded 1c",
+        body: "M PLUS Rounded 1c",
         code: "IBM Plex Mono",
       },
       colors: {
