@@ -17,6 +17,7 @@ publish: true
 
 - げむすき（「ゲームすきー」というMisskeyサーバー）：[@mln](https://misskey.gamelore.fun/@mln) ←メインSNS
 - X：[@amaimelon](https://x.com/amaimelon) ←たまに更新
+- Bluesky：[@mel0cchi.bsky.social](https://bsky.app/profile/mel0cchi.bsky.social) ←たまにゲームのスクショを連投する
 - Instagram：[@amaimel0n](https://instagram.com/amaimel0n) ←ほぼ推し活用のため更新なし
 - GitHub：[amaimel0n](https://github.com/amaimel0n)
 
