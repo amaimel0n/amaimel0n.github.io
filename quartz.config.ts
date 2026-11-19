@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     locale: "ja-JP",
     baseUrl: "amaimel0n.github.io",
-    ignorePatterns: ["private", "templates", ".obsidian", "97_Template"],
+    ignorePatterns: ["private", "templates", ".obsidian", "テンプレート"],
     defaultDateType: "modified",
     theme: {
       fontOrigin: "googleFonts",
