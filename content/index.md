@@ -22,4 +22,4 @@ publish: true
 
 ## 配布してるもの
 
-- 自作プラグイン「カスタム絵文字（Misskey風）」：https://github.com/amaimel0n/obsidian-customemoji
+- [自作プラグイン「カスタム絵文字（Misskey風）」](https://github.com/amaimel0n/obsidian-customemoji)
